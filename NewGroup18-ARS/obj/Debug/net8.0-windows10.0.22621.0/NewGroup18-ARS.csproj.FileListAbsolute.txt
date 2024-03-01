@@ -1,0 +1,14 @@
+C:\Users\irenec.viacrucis\source\repos\NewGroup18-ARS\NewGroup18-ARS\obj\Debug\net8.0-windows10.0.22621.0\NewGroup18-ARS.csproj.AssemblyReference.cache
+C:\Users\irenec.viacrucis\source\repos\NewGroup18-ARS\NewGroup18-ARS\obj\Debug\net8.0-windows10.0.22621.0\NewGroup18_ARS.Dashboard.resources
+C:\Users\irenec.viacrucis\source\repos\NewGroup18-ARS\NewGroup18-ARS\obj\Debug\net8.0-windows10.0.22621.0\NewGroup18_ARS.Form1.resources
+C:\Users\irenec.viacrucis\source\repos\NewGroup18-ARS\NewGroup18-ARS\obj\Debug\net8.0-windows10.0.22621.0\NewGroup18_ARS.Form2.resources
+C:\Users\irenec.viacrucis\source\repos\NewGroup18-ARS\NewGroup18-ARS\obj\Debug\net8.0-windows10.0.22621.0\NewGroup18_ARS.Form3.resources
+C:\Users\irenec.viacrucis\source\repos\NewGroup18-ARS\NewGroup18-ARS\obj\Debug\net8.0-windows10.0.22621.0\NewGroup18_ARS.Form4.resources
+C:\Users\irenec.viacrucis\source\repos\NewGroup18-ARS\NewGroup18-ARS\obj\Debug\net8.0-windows10.0.22621.0\NewGroup18_ARS.Form5.resources
+C:\Users\irenec.viacrucis\source\repos\NewGroup18-ARS\NewGroup18-ARS\obj\Debug\net8.0-windows10.0.22621.0\NewGroup18_ARS.Form6.resources
+C:\Users\irenec.viacrucis\source\repos\NewGroup18-ARS\NewGroup18-ARS\obj\Debug\net8.0-windows10.0.22621.0\NewGroup18_ARS.Properties.Resources.resources
+C:\Users\irenec.viacrucis\source\repos\NewGroup18-ARS\NewGroup18-ARS\obj\Debug\net8.0-windows10.0.22621.0\NewGroup18-ARS.csproj.GenerateResource.cache
+C:\Users\irenec.viacrucis\source\repos\NewGroup18-ARS\NewGroup18-ARS\obj\Debug\net8.0-windows10.0.22621.0\NewGroup18-ARS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irenec.viacrucis\source\repos\NewGroup18-ARS\NewGroup18-ARS\obj\Debug\net8.0-windows10.0.22621.0\NewGroup18-ARS.AssemblyInfoInputs.cache
+C:\Users\irenec.viacrucis\source\repos\NewGroup18-ARS\NewGroup18-ARS\obj\Debug\net8.0-windows10.0.22621.0\NewGroup18-ARS.AssemblyInfo.cs
+C:\Users\irenec.viacrucis\source\repos\NewGroup18-ARS\NewGroup18-ARS\obj\Debug\net8.0-windows10.0.22621.0\NewGroup18-ARS.csproj.CoreCompileInputs.cache
