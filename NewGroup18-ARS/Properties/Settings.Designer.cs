@@ -26,7 +26,7 @@ namespace NewGroup18_ARS.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-UUG2AVV;Initial Catalog=NewGroup18_ARS;Integrated S" +
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=<System Name>;Initial Catalog=NewGroup18_ARS;Integrated S" +
             "ecurity=True")]
         public string NewGroup18_ARSConnectionString
         {
