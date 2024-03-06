@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace AirlineReservationSystem.Properties
+namespace NewGroup18_ARS.Properties
 {
 
 
